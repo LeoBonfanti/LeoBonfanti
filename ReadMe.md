@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Me chamo Leonardo, Estou cursando Análise e desenvolvimento de Sistemas na UTFPR, e sempre procuro evoluir na área da programação.<br>Gosto da área de back-end e me interesso em aprender um pouco também a ser full-stack.
 
 
