@@ -1,4 +1,3 @@
-<!-- ================== HEADER ================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Leonardo%20Bonfanti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Back-end%20%E2%80%A2%20Vis%C3%A3o%20Computacional&descAlignY=58&descSize=16" width="100%"/>
 </p>
@@ -57,7 +56,6 @@ Atuo do back-end ao deploy, desenvolvendo aplicações web completas com foco em
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeoBonfanti&bg_color=0f172a&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" />
 </p>
 
-<!-- Cobrinha comendo as contribuições (gerada pelo workflow .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoBonfanti/LeoBonfanti/output/github-contribution-grid-snake-dark.svg" />
@@ -70,9 +68,8 @@ Atuo do back-end ao deploy, desenvolvendo aplicações web completas com foco em
 ## 📫 Contato
 
 <p align="center">
-  <!-- Troque SEU-USUARIO e SEU-EMAIL pelos seus dados -->
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leonardo-bonfanti/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:leo.bonfanti@hotmail.com"><img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/LeoBonfanti"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
