@@ -48,13 +48,7 @@ Atuo do back-end ao deploy, desenvolvendo aplicações web completas com foco em
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoBonfanti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=cbd5e1&locale=pt-br" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LeoBonfanti&theme=tokyonight&hide_border=true&background=0f172a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeoBonfanti&bg_color=0f172a&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" />
-</p>
+---
 
 <p align="center">
   <picture>
